@@ -12,7 +12,7 @@ After closing time, everyday machines become bosses. During a blackout, players 
 
 **My contribution.** I led game design on a four-person team, developing the premise, combat mechanics and boss attack patterns.
 
-[Project overview (PDF)](object-keeper/overview.pdf) · [Full presentation (PowerPoint)](object-keeper/object-keeper.pptx) · [Team repository](https://github.com/GDAT-AP6412/2026s1-project-2-team-04)
+[Watch gameplay (MP4)](https://raw.githubusercontent.com/48bin48/game-design-portfolio/main/object-keeper/gameplay.mp4) · [Project overview (PDF)](object-keeper/overview.pdf) · [Full presentation (PowerPoint)](object-keeper/object-keeper.pptx) · [Team repository](https://github.com/GDAT-AP6412/2026s1-project-2-team-04)
 
 ## Forgotten End
 
