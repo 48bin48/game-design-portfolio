@@ -1,0 +1,98 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 5976 >>
+stream
+BT /F2 23 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 778.890 Tm (SIYUAN SUN) Tj ET
+BT /F2 10.2 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 759.690 Tm (GAME DESIGNER | GAMEPLAY, COMBAT & LEVEL DESIGN) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 742.390 Tm (Singapore | siyuansun28@gmail.com | +86 189 6437 8809) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 728.390 Tm (Behance Portfolio | github.com/48bin48) Tj ET
+BT /F2 10.5 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 700.390 Tm (EDUCATION) Tj ET
+0.73 0.78 0.81 RG 0.5 w 42 697.890 m 553.276 697.890 l S
+BT /F2 10.3 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 680.590 Tm (Nanyang Technological University, Singapore | 2026 - 2027 \(Expected\)) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 666.390 Tm (MSc in Game Design, Art and Technology) Tj ET
+BT /F2 10.3 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 648.790 Tm (Elon University, USA | Graduated 2026) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 634.590 Tm (BA in Communication Design) Tj ET
+BT /F1 9.7 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 615.590 Tm (Relevant coursework: Principles of Game Design \(AP6401\); Art-Tech Collaboration \(AP6402\); Foundation for) Tj ET
+BT /F1 9.7 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 603.090 Tm (Technology & Coding \(AP6412\); AI Generative Art \(AP6414\).) Tj ET
+BT /F2 10.5 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 579.790 Tm (SELECTED PROJECTS) Tj ET
+0.73 0.78 0.81 RG 0.5 w 42 577.290 m 553.276 577.290 l S
+BT /F2 11.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 552.190 Tm (Object Keeper | 3D Bullet-Hell Boss Battle | 2026) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 537.290 Tm (Lead Game Designer / Planner | Four-person academic team | Unity | AP6412) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 521.190 Tm (Led core concept, gameplay rules and narrative direction for a Unity project about everyday objects awakening) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 521.190 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 507.940 Tm (after closing time.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 491.490 Tm (Designed blackout encounters that hide bosses while keeping projectiles visible, creating a choice between safe) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 491.490 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 478.240 Tm (dodging and attacking with limited information.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 461.790 Tm (Documented controls, encounter progression and win/loss conditions; coordinated design requirements with art) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 461.790 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 448.540 Tm (and programming teammates.) Tj ET
+BT /F2 11.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 424.090 Tm (Forgotten End | Action Platformer | 2026) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 409.190 Tm (Game, Combat & Level Designer | Unreal Engine; Godot level prototype | AP6402) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 393.090 Tm (Designed combat and progression around memories and personal relationships, defining enemy roles, skill) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 393.090 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 379.840 Tm (unlocks, boss attack patterns and counterplay.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 363.390 Tm (Designed and iterated a garden-to-underground level prototype with secret routes, key-and-door gating, rope) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 363.390 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 350.140 Tm (traversal, breakable platforms and a boss-gated mobility reward.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 333.690 Tm (Specified a three-phase, shared-health dual boss; created balancing spreadsheets for damage, attack windows,) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 333.690 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 320.440 Tm (blink energy and experience-based progression.) Tj ET
+BT /F2 11.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 295.990 Tm (The Miners | Tabletop Card Game | 2026) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 281.090 Tm (Game / Systems Designer | Physical prototype for 2-4 players | AP6401) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 264.990 Tm (Designed a six-round mining, merging and selling loop with three mine layers and a six-slot backpack, linking) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 264.990 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 251.740 Tm (push-your-luck decisions to inventory management.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 235.290 Tm (Made coins both victory points and upgrade currency, creating a trade-off between saving score and investing in) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 235.290 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 222.040 Tm (deeper, riskier mines.) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 205.590 Tm (Added limited player trading and competitive auctions; prepared bilingual rules, presentation slides and printable) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 205.590 Tm (-) Tj ET
+BT /F1 10.1 Tf 0.12 0.14 0.16 rg 1 0 0 1 52 192.340 Tm (card components.) Tj ET
+BT /F2 10.5 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 167.490 Tm (SKILLS) Tj ET
+0.73 0.78 0.81 RG 0.5 w 42 164.990 m 553.276 164.990 l S
+BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 148.190 Tm (Design: Gameplay and systems design, combat and boss design, level design, balancing, GDD writing, prototyping) Tj ET
+BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 135.190 Tm (and playtest iteration.) Tj ET
+BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 119.190 Tm (Tools: Unity, Unreal Engine \(Blueprint basics\), Godot, Excel, Figma, GitHub Desktop.) Tj ET
+BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 103.190 Tm (Visual: Maya \(rigging and animation\), Photoshop, Illustrator.) Tj ET
+BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 87.190 Tm (Languages: Mandarin Chinese \(native\); English \(professional working proficiency\).) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [42.000 726.390 116.984 737.890] /Border [0 0 0] /A << /S /URI /URI (https://www.behance.net/gallery/255371579/Siyuan-Suns-Game-Design-Portfolio) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [124.736 726.390 207.642 737.890] /Border [0 0 0] /A << /S /URI /URI (https://github.com/48bin48) >> >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000286 00000 n 
+0000000383 00000 n 
+0000000485 00000 n 
+0000006513 00000 n 
+0000006717 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+6873
+%%EOF
