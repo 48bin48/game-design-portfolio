@@ -7,7 +7,7 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R] >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R] >>
 endobj
 4 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -16,11 +16,12 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 6246 >>
+<< /Length 6320 >>
 stream
 BT /F2 23 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 778.890 Tm (SIYUAN SUN) Tj ET
 BT /F2 10.2 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 759.690 Tm (GAME DESIGNER | GAMEPLAY, COMBAT & LEVEL DESIGN) Tj ET
-BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 742.390 Tm (Singapore | siyuansun28@gmail.com | +86 189 6437 8809) Tj ET
+BT /F1 9.5 Tf 0.30 0.34 0.38 rg 1 0 0 1 42 742.390 Tm (Singapore | siyuansun28@gmail.com | +86 189 6437 8809 | LinkedIn) Tj ET
+0.30 0.40 0.48 RG 0.45 w 296.952 741.290 m 332.861 741.290 l S
 BT /F2 10.5 Tf 0.12 0.22 0.30 rg 1 0 0 1 42 719.390 Tm (EDUCATION) Tj ET
 0.73 0.78 0.81 RG 0.5 w 42 716.890 m 553.276 716.890 l S
 BT /F2 10.3 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 699.590 Tm (Nanyang Technological University, Singapore | 2026 - 2027 \(Expected\)) Tj ET
@@ -78,24 +79,28 @@ BT /F1 9.8 Tf 0.12 0.14 0.16 rg 1 0 0 1 42 60.640 Tm (Languages: Mandarin Chines
 endstream
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [187.876 596.790 268.370 609.290] /Border [0 0 0] /A << /S /URI /URI (https://github.com/48bin48/game-design-portfolio) >> >>
+<< /Type /Annot /Subtype /Link /Rect [296.952 740.390 332.861 751.890] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/siyuan-sun-48083a434) >> >>
 endobj
 8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [187.876 596.790 268.370 609.290] /Border [0 0 0] /A << /S /URI /URI (https://github.com/48bin48/game-design-portfolio) >> >>
+endobj
+9 0 obj
 << /Type /Annot /Subtype /Link /Rect [156.376 253.940 315.094 266.440] /Border [0 0 0] /A << /S /URI /URI (https://www.behance.net/gallery/255371579/Siyuan-Suns-Game-Design-Portfolio) >> >>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
 0000000121 00000 n 
-0000000286 00000 n 
-0000000383 00000 n 
-0000000485 00000 n 
-0000006783 00000 n 
-0000006961 00000 n 
+0000000292 00000 n 
+0000000389 00000 n 
+0000000491 00000 n 
+0000006863 00000 n 
+0000007041 00000 n 
+0000007219 00000 n 
 trailer
-<< /Size 9 /Root 1 0 R >>
+<< /Size 10 /Root 1 0 R >>
 startxref
-7166
+7424
 %%EOF
