@@ -8,12 +8,17 @@ Gameplay, combat and level design at Nanyang Technological University.
 
 ![The player fires a beam at the boss through a ring of orange projectiles.](object-keeper/cover.png)
 
-After closing time, everyday machines become bosses. When the lights go out, the player can still track a boss by the direction of its fire.
+**Single-player 3D bullet-hell boss battles**
 
-**My role · Lead game designer, UI/UX designer and part of the C# programming team**
+You play a night-shift anomaly handler called into closed public spaces where everyday objects have come alive. Each compact arena holds one boss. You move, shoot and dodge as its bullet patterns change, looking for a gap to release your stored laser. We designed these short encounters for players who enjoy learning a pattern and finding their own opening.
 
-- I designed the blackout fight around one question. Could players locate a boss they could no longer see? I kept its projectiles visible and built gaps into the attack patterns so players could dodge, trace the shots back and return fire.
-- I designed weapon heat to change the rhythm of the fight. Players can pause between bursts to cool the weapon or risk losing normal fire for 2.5 seconds. I also worked on the combat HUD and contributed to the team's Unity/C# implementation.
+**My special mechanic design · Blackout**
+
+I designed Blackout around a question I wanted players to answer mid-fight: where is the boss firing from? When the lights go out, the boss disappears from view, but its projectiles stay visible. Players can follow a burst back to its source, slip through a gap and return fire before the lights come back on.
+
+**My role on the team**
+
+I led game design on our four-person team, shaped the premise and boss attack patterns, worked on combat UI/UX, and contributed as part of the Unity/C# programming team. I also designed the weapon heat system. A short pause between bursts lets the gun cool. Holding the trigger too long costs the player 2.5 seconds of normal fire.
 
 [Watch gameplay (MP4)](https://raw.githubusercontent.com/48bin48/game-design-portfolio/main/object-keeper/gameplay.mp4) · [Project overview (PDF)](object-keeper/overview.pdf) · [Full presentation (PowerPoint)](object-keeper/object-keeper.pptx) · [Team repository](https://github.com/GDAT-AP6412/2026s1-project-2-team-04)
 
@@ -21,12 +26,16 @@ After closing time, everyday machines become bosses. When the lights go out, the
 
 ![The player faces a skeletal enemy beneath stained-glass windows in Forgotten End.](forgotten-end/cover.png)
 
-A soul retraces a lifetime through a series of trials. Each soul the player collects belongs to someone who still remembers them.
+**A narrative-driven 2D Metroidvania**
 
-**My role · Level, combat and narrative design**
+In this single-player dark-fantasy adventure, a soul enters the Hall of Judgment and fights for fragments that grant new abilities. Combat and boss battles drive the journey, with platforming, exploration and light environmental puzzles between encounters. As the fragments come together, the trials reveal the life the player once lived and the people who still remember them.
 
-- I designed and prototyped the first level, from a garden with a hidden lever to an underground route with traps and ranged enemies. I built the escape around Blink so players could use their new ability immediately after the guardian fight.
-- I wrote the story of two dancers who find each other again after death and designed their boss encounter around that reunion. Hitting the grounded partner draws the other down from her high wire. Dodge her dive, and the moment they reach for each other becomes the player's opening to attack.
+**My role · Team lead and lead game designer**
+
+- **Combat, balance and core systems.** I led the team and designed the main gameplay systems and mechanics, including combat balance, boss encounters and how players acquire abilities.
+- **Story and animation.** I wrote the main story and designed the dancer bosses around a married couple who find each other again after death. I animated the ranged boss. In the fight, attacking her partner draws her down from the high wire. When the dancers reunite, their duet gives the player an opening to strike.
+- **First-level design.** I designed the first level's map and prototyped its route from the garden to the underground guardian. The escape gives players a place to try Blink as soon as they earn it.
+- **Music and UI.** I produced music for the game and guided the team on UI design and implementation.
 
 [Boss fight demo](forgotten-end/videos/boss-fight-demo.mp4) · [Gameplay demo](forgotten-end/videos/basic-gameplay-demo.mp4) · [Project overview (PDF)](forgotten-end/overview.pdf) · [Full presentation (PowerPoint)](forgotten-end/forgotten-end.pptx) · [Level 1 map](forgotten-end/level-1.png)
 
@@ -34,11 +43,16 @@ A soul retraces a lifetime through a series of trials. Each soul the player coll
 
 ![The Miners tabletop prototype with three mine decks, pickaxe cards and ore tokens.](the-miners/cover.png)
 
-In this six-round tabletop game, miners decide after each safe draw whether to take their ore home or risk one more card.
+**A push-your-luck tabletop card game · Solo project**
 
-**My role · Tabletop systems design, physical prototyping and playtesting**
+In each of six rounds, miners face the same decision after every safe draw: take their ore to the surface, or turn over one more card and risk a cave-in. Coins buy better pickaxes, but the player with the most coins at the end wins.
 
-- I built the mine decks and tested how far players would push a six-slot backpack. I wrote the cave-in rule so one die settles an expedition. On 1–3, return all newly mined ore. On 4–6, keep it all and stop mining for that expedition.
-- I balanced ore prices and pickaxe upgrades around the fact that coins also determine the winner. Two level-I iron sell for six coins in total. Merge them and the level-II iron sells for eleven, but holding the pair until then takes up two slots.
+**What I made**
+
+I created the entire game, from its rules, content and economy to its visual design and physical prototype. I designed the cards and their UI, including the color-coded mine decks and the pickaxe cards that show the upgrade cost and which layers a miner can enter. I wrote the rulebook, built the playable set and tested it at the table.
+
+I tuned ore prices to make backpack space matter. Two level-I iron sell for six coins together. Merging them produces level-II iron worth eleven, so a miner has a reason to hold on to the first piece even when their six-slot pack is nearly full.
+
+**In development.** I am still playtesting and refining the game to make each decision to stay or leave more fun. In a future version, I would like to give the game an educational dimension. One possibility I want to explore is whether the ore cards could help players recognize the minerals they collect.
 
 [Project overview (PDF)](the-miners/overview.pdf) · [Full presentation (PowerPoint)](the-miners/the-miners.pptx) · [English rulebook](the-miners/rulebook.pdf)
