@@ -41,7 +41,7 @@ In this single-player dark-fantasy adventure, a soul enters the Hall of Judgment
 
 ## The Miners
 
-![The Miners tabletop prototype with three mine decks, pickaxe cards and ore tokens.](the-miners/cover.png)
+<img src="the-miners/cover.png" width="420" alt="A player holds a card above the three mine decks, with the cave-in die and pickaxe upgrade cards on the table.">
 
 **A push-your-luck tabletop card game · Solo project**
 
